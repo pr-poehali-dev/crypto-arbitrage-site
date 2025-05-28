@@ -28,9 +28,9 @@ const Index = () => {
               {/* Person Image */}
               <div className="mb-8">
                 <img
-                  src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&h=300&fit=crop&crop=face"
-                  alt="Криптоэксперт"
-                  className="w-64 h-64 rounded-full object-cover border-4 border-primary/20 shadow-2xl"
+                  src="https://cdn.poehali.dev/files/75808301-970e-4d7f-b9df-1b3a8651d8cc.jpg"
+                  alt="Криптоэксперты Зокир и Ахмед"
+                  className="w-full max-w-lg h-auto rounded-lg object-cover border-4 border-primary/20 shadow-2xl"
                 />
               </div>
 
